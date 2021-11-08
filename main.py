@@ -1,3 +1,8 @@
+"""Autor: Matheus Lima de Souza Ramires
+
+Resumo: Sistema que converte texto para voz utilizando o modulo pyttsx3 do python
+"""
+
 import pyttsx3
 import datetime
 
